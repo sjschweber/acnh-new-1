@@ -29,6 +29,7 @@ function App() {
             <option>High to Low</option>
             <option>Low to High</option>
             <option>Species (A-Z)</option>
+            <option>Test</option>
           </select>
           <input type="text" placeholder="search" class="rounded m-4" onChange={handleTextChange}></input>
         </form>
